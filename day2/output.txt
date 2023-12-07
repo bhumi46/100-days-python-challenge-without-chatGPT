@@ -1,0 +1,15 @@
+/home/bhuminathan/100-days-python-challenge-without-chatGPT/venv/bin/python /home/bhuminathan/100-days-python-challenge-without-chatGPT/day2/variables.py
+140177843693552
+-10
+bn46 26 to learn py
+46 46 46
+bhumi is atheist
+kaluyan is partially_religious
+abishek isfull_religious
+the sum of two num is 46
+nithya
+she is not my ex,she is my forever
+she is not my ex,she is my forever
+46464646464646464646464646464646464646464646464646464646465
+
+Process finished with exit code 0
