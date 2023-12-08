@@ -1,0 +1,3 @@
+/home/bhuminathan/100-days-python-challenge-without-chatGPT/venv/bin/python /home/bhuminathan/100-days-python-challenge-without-chatGPT/day3/suffering_from_cold.py
+2023-12-08 23:59:45.708298
+I m suffering from cold,will continue tomorrow
